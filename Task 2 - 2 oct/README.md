@@ -1,57 +1,3 @@
-\### Static Count Class
-
-
-
-```
-
-
-
-class Student {
-
-&#x20;   static int count = 0;
-
-
-
-&#x20;   Student() {
-
-&#x20;       count++;
-
-&#x20;   }
-
-}
-
-
-
-public class Main {
-
-&#x20;   public static void main(String\[] args) {
-
-&#x20;       Student s1 = new Student();
-
-&#x20;       Student s2 = new Student();
-
-&#x20;       Student s3 = new Student();
-
-
-
-&#x20;       System.out.println(Student.count);
-
-&#x20;   }
-
-}
-
-
-
-
-
-
-
-```
-
-
-
-
-
 
 Task 2 .......
 
@@ -123,6 +69,7 @@ class CookingTask extends Thread {
         );
     }
 }
+<img width="1220" height="845" alt="Screenshot 2026-10-04 222933" src="https://github.com/user-attachments/assets/c93b01fb-59f4-4ac8-abd2-48d04bfbe7ce" />
 
 
 
@@ -188,6 +135,8 @@ class CookingTask extends Thread {
         );
     }
 }
-<img width="1220" height="845" alt="Screenshot 2026-10-04 222933" src="https://github.com/user-attachments/assets/4fe20545-f291-4df6-98ac-7e56ec329f36" />
+<img width="1211" height="841" alt="task 2 using run ()" src="https://github.com/user-attachments/assets/50343c18-f09f-4129-b15a-3d3b3106e9da" />
+
+
 
 
