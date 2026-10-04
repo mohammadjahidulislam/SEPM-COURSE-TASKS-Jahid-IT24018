@@ -188,5 +188,6 @@ class CookingTask extends Thread {
         );
     }
 }
+<img width="1220" height="845" alt="Screenshot 2026-10-04 222933" src="https://github.com/user-attachments/assets/4fe20545-f291-4df6-98ac-7e56ec329f36" />
 
 
